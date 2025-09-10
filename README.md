@@ -51,3 +51,4 @@ df['Day'] = df['InvoiceDate'].dt.day
 1. Overall Sales Trend
 
 Shows fluctuations in daily sales. Useful for identifying seasonal peaks and slow periods.
+![Dashboard Preview](ppp.png)
