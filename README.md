@@ -46,3 +46,8 @@ df['Day'] = df['InvoiceDate'].dt.day
 # 5️⃣ RFM Analysis
 # Calculate Recency, Frequency, Monetary
 # Assign RFM scores and segment customers
+```
+##  📊 Key Insights
+1. Overall Sales Trend
+
+Shows fluctuations in daily sales. Useful for identifying seasonal peaks and slow periods.
