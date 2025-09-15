@@ -1,4 +1,8 @@
-# 🛒 Retail Sales Analysis & Customer Segmentation
+# 🛍️ E-commerce Analysis  
+
+![Python](https://img.shields.io/badge/Language-Python-%233776AB?logo=python&logoColor=white)  
+
+Comprehensive e-commerce sales analysis with **RFM segmentation**, visual insights, and customer profiling using Python.  
 
 ## 📌 Project Overview
 This project analyzes retail transaction data to uncover sales trends, top products, key customers, geographic performance, and customer segmentation using **RFM (Recency, Frequency, Monetary)** analysis.  
